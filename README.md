@@ -1,4 +1,4 @@
-## TUGAS PRATIKUM PERETMUAN 12
+# TUGAS PRATIKUM PERTEMUAN 12
 
 #### Soal
 - Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah

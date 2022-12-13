@@ -10,11 +10,7 @@
 
 #### progam
 
-``` print("=" * 65)
-print("|\tPROGRAM INPUT NILAI MAHASISWA MENGGUNAKAN FUNGSI\t|")
-print("=" * 65)
-
-dataMahasiswa = {}
+```dataMahasiswa = {}
 class mahasiswa(object):
     def tambah():
         nama = str(input("Masukan Nama : "))
@@ -91,7 +87,7 @@ while True:
     else:
         print("PILIHAN TIDAK TERSEDIA")
 ```      
-![Screenshot (78)](https://user-images.githubusercontent.com/115714443/207395634-671ec759-14d8-4727-ba86-b2246f3f61b6.png)
+![Screenshot (82)](https://user-images.githubusercontent.com/115714443/207397162-41247c07-ab31-4ff7-94f8-06a9f52ab1f4.png)
 ![Screenshot (79)](https://user-images.githubusercontent.com/115714443/207395670-f8c662be-76d4-423e-b654-a1732fd6158d.png)
 ![Screenshot (80)](https://user-images.githubusercontent.com/115714443/207395676-05c398c2-e752-40cf-98fb-44b2546623f4.png)
 ![Screenshot (81)](https://user-images.githubusercontent.com/115714443/207395707-5b295c43-0c34-479b-9721-ccf084e12fd7.png)
@@ -113,7 +109,7 @@ while True:
 
 ### Hasil Run
 
-![Screenshot (76)](https://user-images.githubusercontent.com/115714443/207394917-78ee0fce-5ff4-4da3-a43b-04f58927e1da.png)
+![Screenshot (77)](https://user-images.githubusercontent.com/115714443/207397519-80df9534-d5c7-4ae1-9fd8-58c2508af358.png)
 ![Screenshot (77)](https://user-images.githubusercontent.com/115714443/207394954-bbc9fcd7-ebff-497b-b034-d2093126b853.png)
 
 ### TERIMAKASI

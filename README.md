@@ -109,7 +109,7 @@ while True:
 
 ### Hasil Run
 
-![Screenshot (77)](https://user-images.githubusercontent.com/115714443/207397519-80df9534-d5c7-4ae1-9fd8-58c2508af358.png)
+![Screenshot (78)](https://user-images.githubusercontent.com/115714443/207397874-ee84edf7-5b1e-481a-9efa-066e836d394e.png)
 ![Screenshot (77)](https://user-images.githubusercontent.com/115714443/207394954-bbc9fcd7-ebff-497b-b034-d2093126b853.png)
 
 ### TERIMAKASI

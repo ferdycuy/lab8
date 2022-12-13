@@ -8,7 +8,7 @@
 -  Method hapus(nama) untuk menghapus data berdasarkan nama
 -  Method ubah(nama) untuk mengubah data berdasarkan nama
 
-R### progam
+#### progam
 
 ``` print("=" * 65)
 print("|\tPROGRAM INPUT NILAI MAHASISWA MENGGUNAKAN FUNGSI\t|")
@@ -91,3 +91,30 @@ while True:
     else:
         print("PILIHAN TIDAK TERSEDIA")
         ```
+        
+![Screenshot (78)](https://user-images.githubusercontent.com/115714443/207395634-671ec759-14d8-4727-ba86-b2246f3f61b6.png)
+![Screenshot (79)](https://user-images.githubusercontent.com/115714443/207395670-f8c662be-76d4-423e-b654-a1732fd6158d.png)
+![Screenshot (80)](https://user-images.githubusercontent.com/115714443/207395676-05c398c2-e752-40cf-98fb-44b2546623f4.png)
+![Screenshot (81)](https://user-images.githubusercontent.com/115714443/207395707-5b295c43-0c34-479b-9721-ccf084e12fd7.png)
+        
+
+#### penjelasan
+1. dekralarasi dataMahasasiwa sebagai object untuk menerima inputan data.
+2. deklarasi class di isi dengan method:
+- def tambah() di isi dengan inputan nama, nim, tugas, uts, uas, akhir , di variable akhir di isi dengan penjumlahan dan bagi 3, untuk tugas 3.5 untuk uts, 3.5 untuk   uas. terakhir masukan semua kedalam object dataMahasiswa.
+- def tampil() untuk mencetak object dataMahasiwa serta gunakan perulangan for untuk mecetak semua data jika di dalam object dataMahasiwa berisi banyak data.
+- def hapus(nama) untuk menghapus data di dalam parameter nama dan gunakan syntax del.
+- def ubah(nama) untuk mengubah data di dalam parameter nama dan gunakan statment if else nama di dalam dataMahasiswa lalu masukan kembali ke dalam object dataMahasiswa.
+3. gunakan pengulangan while True di isikan dengan inputan menu, lalu di dalamnya di isikan dengan statment if elif else.
+4. di dalam statment if elif else di isikan dengan memanggil masing-masing method yang ada di dalam class mahasiswa.
+
+#### Flowchart
+
+![flowchart08](https://user-images.githubusercontent.com/115714443/207394441-dc08d462-1bcf-429f-8249-cc3c3602708f.png)
+
+### Hasil Run
+
+![Screenshot (76)](https://user-images.githubusercontent.com/115714443/207394917-78ee0fce-5ff4-4da3-a43b-04f58927e1da.png)
+![Screenshot (77)](https://user-images.githubusercontent.com/115714443/207394954-bbc9fcd7-ebff-497b-b034-d2093126b853.png)
+
+### TERIMAKASI
